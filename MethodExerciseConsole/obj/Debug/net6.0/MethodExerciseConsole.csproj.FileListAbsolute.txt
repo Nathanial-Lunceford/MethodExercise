@@ -1,0 +1,15 @@
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.exe
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.deps.json
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.runtimeconfig.json
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.dll
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net6.0\MethodExerciseConsole.pdb
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.AssemblyInfo.cs
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.dll
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\refint\MethodExerciseConsole.dll
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.pdb
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\MethodExerciseConsole.genruntimeconfig.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net6.0\ref\MethodExerciseConsole.dll
